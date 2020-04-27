@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bukkit-image-renderer.iml" filepath="$PROJECT_DIR$/.idea/modules/bukkit-image-renderer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bukkit-image-renderer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bukkit-image-renderer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bukkit-image-renderer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/bukkit-image-renderer.test.iml" />
+    </modules>
+  </component>
+</project>
