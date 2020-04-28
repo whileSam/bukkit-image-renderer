@@ -1,0 +1,22 @@
+plugins {
+    id 'java'
+}
+
+group 'me.trysam'
+version '1.0.0-SNAPSHOT'
+def exportName = 'ImageRenderer'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenLocal()
+}
+
+dependencies {
+    compileOnly('org.spigotmc:spigot-api:1.15.2-R0.1-SNAPSHOT')
+    compileOnly('org.bukkit:craftbukkit:1.15.2-R0.1-SNAPSHOT')
+}
+
+jar {
+    baseName "$exportName"
+}

@@ -1,0 +1,9 @@
+main: me.trysam.imagerenderer.ImageRendererPlugin
+name: ImageRenderer
+version: 1.0.0-SNAPSHOT
+author: trySam
+commands:
+  renderimage:
+    description: Renders an image with particles.
+    aliases:
+      - ri
